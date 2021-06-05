@@ -12,20 +12,9 @@
         <module>user-service-provider</module>
         <module>gmall-interface</module>
         <module>order-service-consumer</module>
+        <module>boot-user-service-provider</module>
+        <module>boot-order-service-consumer</module>
     </modules>
-
-    <dependencies>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-api</artifactId>
-            <version>1.7.5</version>
-        </dependency>
-        <dependency>
-            <groupId>org.slf4j</groupId>
-            <artifactId>slf4j-simple</artifactId>
-            <version>1.6.4</version>
-        </dependency>
-    </dependencies>
 
 
 
